@@ -18,7 +18,8 @@ Life+expectancy, contiene un listado de países y el promedio de esperanza de vi
 
 En el modelo de datos se generan las siguientes relaciones:
 
-![1-poblacion](https://github.com/user-attachments/assets/2af16a5a-c6dd-4775-b36e-36031e3865af)
+![Captura de pantalla (208)](https://github.com/user-attachments/assets/d3bb6b0b-6c07-4bc6-9fdf-8af4900de6fe)
+
 
 # Informe Población Mundial
 
@@ -30,8 +31,8 @@ Un Mapa donde se puede observar la distribución de países por continente, las 
 
 Adicional al filtro segmentado la cantidad de habitantes se agregó uno por continente.
 
+![Captura de pantalla (209)](https://github.com/user-attachments/assets/3c796ffd-a884-47be-8045-71c8497897a7)
 
-![2-poblacion](https://github.com/user-attachments/assets/b33e2ca6-dc84-470d-bb42-bbf36c533a05)
 
 # En Power Query se genera una columna condicional para segmentar los países en 4 categorías:
 
@@ -55,7 +56,8 @@ Gráfico de dispersión, estudiando la relación entre la esperanza de vida y la
 
 Un Mapa donde se puede observar la distribución de países por continente, las burbujas están condicionas al tamaño de la Mortalidad Infantil.
 
-![4-Poblacion](https://github.com/user-attachments/assets/3ee19d15-2b9b-4c81-bb36-cbbf95dd37e1)
+![Captura de pantalla (210)](https://github.com/user-attachments/assets/42515b11-9fcb-4198-a878-0aababad47c2)
+
 
 # En Power Query se genera una columna condicional en cada tabla para segmentar:
 
